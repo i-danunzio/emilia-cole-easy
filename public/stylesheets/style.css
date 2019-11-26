@@ -1,0 +1,30 @@
+body {
+  font: 18px "Verdana", sans-serif;
+  width: 900px
+}
+
+h1 {
+  font:37px "tahoma",Helvetica, sans-serif;
+  line-height:46px;
+  color: #000000;
+}
+
+h2{
+  font:25px "tahoma",Helvetica, sans-serif;
+  line-height:38px;
+  color: #000000;
+
+};
+
+h3{
+  font:18px;
+  line-height:38px;
+  color: #666;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
